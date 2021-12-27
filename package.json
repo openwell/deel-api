@@ -2,7 +2,7 @@
   "name": "deel-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "sever.js",
   "scripts": {
     "build": "node server.js",
     "start": "node server.js"
